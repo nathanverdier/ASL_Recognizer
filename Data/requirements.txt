@@ -1,0 +1,5 @@
+numpy
+pandas
+keras==3.0.0
+jax==0.4.20
+matplotlib
